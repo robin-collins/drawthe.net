@@ -1,0 +1,16 @@
+# Ignore Dockerfile and dockerignore file
+Dockerfile
+.dockerignore
+
+# Ignore OS-specific files
+.DS_Store
+
+# ignore .git folder
+.git
+
+
+
+
+# Ignore other common artifacts
+*.log
+*.lock
